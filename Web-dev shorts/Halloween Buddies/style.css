@@ -1,0 +1,18 @@
+header{
+    display: flex;
+}
+
+h1 {
+    font-family: 'Creepster', cursive;
+    font-size: 7em;
+    color: #f68632;
+    margin: 0;
+    letter-spacing: 5px;
+  }
+
+byline{
+    font-family: 'Creepster', cursive;
+    font-size: 0.7em;
+    color: #f68632;
+    margin: 0;
+}
